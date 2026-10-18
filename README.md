@@ -1,5 +1,3 @@
-#Mis notas de cloud
-##d[README.md](https://github.com/user-attachments/files/33581375/README.md)
 # Mis notas de cloud
 
 Repositorio donde voy apuntando lo que aprendo en mi ruta hacia un puesto de cloud (AWS, DevOps). Empiezo desde cero, con una hora al día.
